@@ -1,0 +1,18 @@
+{
+  "name": "cadastrador-de-cpf",
+  "version": "1.0.0",
+  "description": "projeto para salvar CPFs validos em um arquivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cpf",
+    "válido"
+  ],
+  "author": "Julianny Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "validador-de-cpf": "^1.0.2"
+  }
+}
